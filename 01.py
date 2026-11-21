@@ -21,3 +21,11 @@ while (num > 0):
 print(f"Some of all even digits of a number: {evenSum}")
 print(f"Some of all odd digits of a number: {oddSum}")
 
+'''
+Time Complexity: O(log n)
+Because the number is divided by 10 in each iteration.
+
+Space Complexity: O(1)
+Because only a constant number of variables are used.
+'''
+
